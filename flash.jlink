@@ -1,0 +1,4 @@
+loadfile ./build/program.bin
+r
+g
+exit
